@@ -1,10 +1,7 @@
 <!-- Typing Effect Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=Hey+there!+I'm+Jainil+Kukrolia+🚀;Full+Stack+Developer+💻;IoT+Innovator+🔌;Designer+%7C+Video+Editor+🎨;Always+Learning+New+Tech+🔥)](https://git.io/typing-svg)
 
-<!-- Visitor Counter -->
-![Profile views](https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=38bdf8&style=for-the-badge)
 
----
 
 ## 🌟 About Me  
 💡 *Turning coffee ☕ into clean code, designs, and impactful projects.*  
@@ -73,14 +70,4 @@ _AI-powered solution for university papers with PDF generation and query chatbox
 
 ---
 
-## 📊 GitHub Stats & Streak  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight)
 
----
-
-## 📈 Activity Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark&hide_border=true)
-
----
