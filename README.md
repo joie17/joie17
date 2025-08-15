@@ -1,5 +1,5 @@
 <!-- Typing Effect Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=Hey+there!+I'm+Jainil+Kukrolia+🚀;Full+Stack+Developer+💻;IoT+Innovator+🔌;Designer+%7C+Video+Editor+🎨;Always+Learning+New+Tech+🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=Hey+there!+I'm+Jainil+Kukrolia+🚀;Full+Stack+Developer+💻;;Designer+%7C+Video+Editor+🎨;Always+Learning+New+Tech+🔥)](https://git.io/typing-svg)
 
 
 
